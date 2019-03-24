@@ -8,4 +8,4 @@ lenght = len(list_old)
 while i < lenght:
     list_old[i] = list_old[i] * (-2)
     i += 1
-print (list_old)
+print(list_old)
